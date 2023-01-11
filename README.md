@@ -12,5 +12,6 @@ The use of this website is to find the upcoming weather forcast for a city
 Search input on left screen that allow user to type in a city name
 Previous Search history button that user can click on to bring up past city weather
 
+[website](https://howardlee2022.github.io/Weather-Application-Challenge/)
 ![Main](./assets/Screenshots/Main.jpg)
 ![Search](./assets/Screenshots/Search.jpg)
